@@ -1,4 +1,4 @@
-# greetings from Finland 🇫🇮👋
+# greetings 👋
 
 Embracing the best practices for all things infosec. Wide scale of projects with cloud, DevOps, Python and Rust development with a focus on blockchain related projects.
 
