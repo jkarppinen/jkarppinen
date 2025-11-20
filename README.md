@@ -6,14 +6,6 @@ Senior Infosec Specialist @ [Interjektio](https://interjektio.fi)
 
 📍 home pointer in Oulu 🥶🗿
 
-## 🧪 selected highlights at work
-- devops in cybersecurity product R&D for 8 years, now back in consultancy  
-- release engineering work: coordinating smooth, reliable, and timely product releases  
-- led all IT activities of an e-commerce startup for three years as a co-founder  
-- CTF project lead, versatile company marketing, and guest lecturing on industry practices  
-- active initiator of workplace culture: organising events, talks, and knowledge-sharing sessions
-- led a sysadmin team of a nonprofit through a disaster-recovery mission, preserving decades of valuable data from the 90s
-
 ## 🎓 education
 **MSc., University of Oulu (2024)**  
 - thesis on virtualising WLAN transmission for wireless-product testing [[link]](https://oulurepo.oulu.fi/bitstream/handle/10024/53217/nbnfioulu-202412127249.pdf?sequence=1&isAllowed=y)
